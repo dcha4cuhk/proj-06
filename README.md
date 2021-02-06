@@ -1,3 +1,4 @@
+![Banner](/images/banner.png)
 # Hi Heading
 ## H2 Heading
 ### H3 Heading
